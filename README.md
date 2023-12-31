@@ -86,3 +86,4 @@ To get this React-Typescript application on your local machine, you need to foll
 # PRIME-CUISINE-APP
 # PRIME-CUISINE-APP
 # PRIME-CUISINE-APP
+# PRIME-CUISINE-APP
