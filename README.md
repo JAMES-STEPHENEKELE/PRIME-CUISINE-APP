@@ -55,8 +55,7 @@ This is a food ordering DESKTOP web application. It is NOT optimized for mobile 
 ## App Links 
 Production Link: ()
 
-Project Github Repo Link: (https://github.com/OmaJuliet/PRIME-CUISINE.git)
-
+Project Github Repo Link: (https://github.com/JAMES-STEPHENEKELE/PRIME-CUISINE)
 
 ## Get it on your local machine
 To get this React-Typescript application on your local machine, you need to follow these steps
@@ -84,4 +83,5 @@ To get this React-Typescript application on your local machine, you need to foll
 ### Running and Testing the application
 2. Run `npm start` to start the development server.
 3. Open a web browser and go to http://localhost:3000 to view the application.# PRIME-CUISINE-APP
+# PRIME-CUISINE-APP
 # PRIME-CUISINE-APP
